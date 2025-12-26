@@ -3,10 +3,10 @@
 /*  *************************   Nav bar       ********************************/
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
 }
 
 body {
@@ -128,7 +128,7 @@ button:hover {
 
 .image-side {
     flex: 1;
-    background-image: url('./img4.jpg');  
+    background-image: url('img4.jpg'); 
     background-size: cover;
    
     background-position: center;
